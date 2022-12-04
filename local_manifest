@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/samsung/j53gxx" name="Galaxy-MSM8916/android_device_samsung_j53gxx.git" remote="github" revision="lineage-17.1" />
+ <project path="device/samsung/j53gxx/msm8916-common" name="Galaxy-MSM8916/android_device_samsung_j53gxx.git" remote="github" revision="lineage-17.1" />
+ <project path="vendor/samsung/j53gxx" name="Galaxy-MSM8916/proprietary_vendor_samsung.git" remote="github" revision="master" />
+ <project path="kernel/samsung/j53gxx" name="Galaxy-MSM8916/android_kernel_samsung_msm8916.git" remote="github" revision="lineage-17.1" />
+ 
+</manifest>
